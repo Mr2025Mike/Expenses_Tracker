@@ -30,6 +30,3 @@ Data Structures – using lists and dictionaries to organize expenses
 
 This project is designed as a learning tool for beginners exploring Python basics, data handling, and simple project organization.
 
-🎯 Purpose
-
-This project is designed as a learning tool for beginners exploring Python basics, data handling, and simple project organization.
